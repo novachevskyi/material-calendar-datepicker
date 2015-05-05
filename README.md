@@ -1,5 +1,6 @@
 Simple Material Calendar DatePicker
 ======================================================
+[ ![Download](https://api.bintray.com/packages/novachevskyi/maven/MaterialCalendarDatePicker/images/download.svg) ](https://bintray.com/novachevskyi/maven/MaterialCalendarDatePicker/_latestVersion)
 
 
 Simple Material Calendar DatePicker offers you the date picker as shown in [the Material Design spec](http://www.google.com/design/spec/components/pickers.html) but much simple, with an

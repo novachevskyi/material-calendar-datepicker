@@ -31,7 +31,7 @@ Usage
 
 *For a working implementation of this project see the `app/` folder.*
 
-1. Define the appropriate Handler callbacks:
+Define the appropriate Handler callbacks:
 
 ```java
 CalendarDatePickerDialog.OnDateSetListener dateSetListener =
@@ -44,7 +44,7 @@ CalendarDatePickerDialog.OnDateSetListener dateSetListener =
       };
 ```
 
-2. Use Builder class to create a Dialog:
+Use Builder class to create a Dialog:
 
 ```java
 Calendar calendar = Calendar.getInstance();

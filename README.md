@@ -61,7 +61,7 @@ dialog.show(getSupportFragmentManager(), "DATE_PICKER_TAG");
 License
 =======
 
-    Copyright 2013 Stanislav Novachevskyi
+    Copyright 2015 Stanislav Novachevskyi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

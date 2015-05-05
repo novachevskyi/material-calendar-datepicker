@@ -7,6 +7,8 @@ The library uses [the code from the Android frameworks](https://android.googleso
 
 Support for Android 4.0 and newer.
 
+<img src="https://drive.google.com/uc?export=download&id=0Bx_Utp9eUjBQbVJMbDJaTWVDUkU" />
+
 Including in Your Project
 =========================
 

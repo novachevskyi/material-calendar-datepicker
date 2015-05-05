@@ -29,7 +29,7 @@ compile ("com.novachevskyi:material-calendar-datepicker:1.0.0") {
 Usage
 =====
 
-*For a working implementation of this project see the `sample/` folder.*
+*For a working implementation of this project see the `app/` folder.*
 
 1. Define the appropriate Handler callbacks:
 

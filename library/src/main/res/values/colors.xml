@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="bpLine_background">#cccccc</color>
+  <color name="calendar_header">#999999</color>
+  <color name="date_picker_view_animator">#f2f2f2</color>
+  <color name="date_picker_text_normal">#ff999999</color>
+  <color name="bpWhite">#ffffff</color>
+  <color name="bpDarker_blue">#0099cc</color>
+  <color name="circle_background">#f2f2f2</color>
+  <color name="bpBlue">#33b5e5</color>
+  <color name="done_text_color">#8c8c8c</color>
+  <color name="default_text_color_holo_dark">#ffffffff</color>
+  <color name="default_text_color_holo_dark_disabled">#ff4c4c4c</color>
+</resources>
